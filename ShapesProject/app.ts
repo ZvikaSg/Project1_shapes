@@ -1,4 +1,4 @@
-﻿//Asking for input of a shape
+﻿//Asking for input of a shape:)
 let shape: number = Number(prompt("Welcome to the best shape simulation ever in the entire world!\n Please select desired shape:\n 1) Square\n 2) Rectangle\n 3) Triangle"));
 
 //Veryfing if the input of the shape entered correctly 
