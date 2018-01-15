@@ -89,7 +89,7 @@ if (shape != 1 && shape != 2 && shape != 3) {
 
                 }
             }
-            document.write("<br/><br/>");
+            document.write("<br/>");
         }
         if (shape == 1) { //Relevant calclution for square
             document.write("Square Perimeter: " + `${rows * 2 + columns * 2}` + "<br/>");
@@ -127,10 +127,15 @@ if (shape != 1 && shape != 2 && shape != 3) {
 
                 }
             }
-            document.write("<br/><br/>");
+            document.write("<br/>");
         }
+        //Adapting the perimetere output to a number with 2 digits after the decimal point
+        let tempperimetere = width + width + Math.sqrt(2 * width * width)
+        tempperimetere *= 100;
+        tempperimetere = Math.floor(tempperimetere);
+        tempperimetere /= 100;
         //Relevant calclution for triangle
-        document.write("Triangle Perimeter: " + `${width * 3}` + "<br>");
+        document.write("Triangle Perimeter: " + `${tempperimetere}` + "<br>");
         document.write("Triangle Area: " + `${width * width / 2}`);
     }
 }

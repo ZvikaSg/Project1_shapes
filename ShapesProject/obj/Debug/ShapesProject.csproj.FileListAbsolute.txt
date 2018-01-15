@@ -1,0 +1,7 @@
+C:\GIT\ShapesProject\bin\TypeScriptHTMLApp1.dll.config
+C:\GIT\ShapesProject\bin\TypeScriptHTMLApp1.dll
+C:\GIT\ShapesProject\bin\TypeScriptHTMLApp1.pdb
+C:\GIT\ShapesProject\obj\Debug\ShapesProject.csprojResolveAssemblyReference.cache
+C:\GIT\ShapesProject\obj\Debug\ShapesProject.csproj.CoreCompileInputs.cache
+C:\GIT\ShapesProject\obj\Debug\TypeScriptHTMLApp1.dll
+C:\GIT\ShapesProject\obj\Debug\TypeScriptHTMLApp1.pdb
